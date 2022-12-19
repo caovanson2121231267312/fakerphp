@@ -1,0 +1,17 @@
+{
+    "name": "caova/fakerphp",
+    "autoload": {
+        "psr-4": {
+            "Caova\\Fakerphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "caovanson2121231267312",
+            "email": "son1669063793@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.9.1"
+    }
+}
